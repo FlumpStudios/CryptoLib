@@ -1,0 +1,9 @@
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\bin\Debug\netcoreapp2.0\CryptoLib.deps.json
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\bin\Debug\netcoreapp2.0\CryptoLib.dll
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\bin\Debug\netcoreapp2.0\CryptoLib.pdb
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\obj\Debug\netcoreapp2.0\CryptoLib.csprojAssemblyReference.cache
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\obj\Debug\netcoreapp2.0\CryptoLib.csproj.CoreCompileInputs.cache
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\obj\Debug\netcoreapp2.0\CryptoLib.AssemblyInfoInputs.cache
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\obj\Debug\netcoreapp2.0\CryptoLib.AssemblyInfo.cs
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\obj\Debug\netcoreapp2.0\CryptoLib.dll
+C:\Users\paul.marrable\Source\Workspaces\Development\Root\Src\IQ\IQ.API\CryptoLib\obj\Debug\netcoreapp2.0\CryptoLib.pdb
