@@ -18,9 +18,10 @@ Cyptolib is an encryption library designed to make it as simple as possible to a
 <br/>
 <p><strong>Note:</strong> As with all keys, it is is recommended that your store your keys in your user secrets for development and a secure key manager 
 such as AWS Secrets manager or Azure ket vault for deployment</p>
-<br/>
+
+<h3>How to encrypt and decrypt strings</h3>
 <p>
-  Now add the 'Encrypt' Attribute to the properties in the the model you wish to Encrypt/Decrypt <br/>
+  cryptoLib uses reflection to find Encryption attributes added to properties in a passed model. Simply add the 'Encrypt' Attribute to the properties in the the model you wish to Encrypt/Decrypt <br/>
   
   <code>
   [Encrypt]<br/>
@@ -63,11 +64,9 @@ To encrypt or decrypt a string directly, you can call the GetEncryptedValue(stri
 </p>
 
 <p>
- If you need to encrypt or decrypt a string from a static class you can encrypt or decrypt strings directly by using the EncyptionHelper class.
+ If you need to encrypt or decrypt a string from a static class you can run the cipher directly by using the EncyptionHelper class.
  This contains 2 public static methods <br/>
  EncryptString(string text, string inputString, string salt) <br/>
  DecryptString(string encryptedText, string inputString, string salt) <br/>
- 
- You can call these methods directly to encrypt/decypt an individual string.
 </p>
 
