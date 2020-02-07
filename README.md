@@ -17,7 +17,7 @@ Cyptolib is an encryption library designed to make it as simple as possible to a
 
 <br/>
 <p><strong>Note:</strong> As with all keys, it is is recommended that your store your keys in your user secrets for development and a secure key manager 
-such as AWS Secrets manager or Azure ket vault for deployment</p>
+such as AWS Secrets manager or Azure key vault for deployment</p>
 
 <h3>How to encrypt and decrypt strings</h3>
 <p>
