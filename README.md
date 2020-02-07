@@ -1,8 +1,8 @@
 # CryptoLib
-Simple library for added Rijndael to .NET projects
+Library for adding AES(Rijndael) Encryption to .NET projects
 
 <h3>What is CryptoLib</h3>
-Cyptolib is an encryption library designed to make it as simple as possible to add AES encryption to .NET core projects.
+Cyptolib is an encryption library designed to make it as simple as possible to add data at rest protection to .NET core projects via AES encryption.
 
 <h3>Basic setup</h3>
 <p>Adding Cryptolib to a project should be pretty painless. </p>
