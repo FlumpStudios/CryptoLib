@@ -64,8 +64,8 @@ To encrypt or decrypt a string directly, you can call the GetEncryptedValue(stri
 </p>
 
 <p>
- If you need to encrypt or decrypt a string from a static class you can run the cipher directly by using the EncyptionHelper class.
- This contains 2 public static methods <br/>
+ You can also call the cipher directly by using the EncyptionHelper class, this is useful for static and extension methods.
+ The EncyptionHelper class contains 2 public static methods <br/>
  EncryptString(string text, string inputString, string salt) <br/>
  DecryptString(string encryptedText, string inputString, string salt) <br/>
 </p>
